@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/BEE-BUZZINESS/f-promise-async.git"
+    "url": "git://github.com/sberthier/f-promise-async.git"
   },
   "scripts": {
     "prepare": "npm run compile",
